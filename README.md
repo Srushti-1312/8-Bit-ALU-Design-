@@ -12,6 +12,11 @@
 
 ## Verilog Code
 Code files are available in the `verilog_code` folder.
+## Team Members
+1. Srushti Teli  
+2. Rohit Mangsule  
+3. Aadarsh Babanagar 
+4. chaitrali Warekar
 
 ## Block Diagram
-![Block Diagram](Rename Screenshot 2026-06-02 084201.png to image/Screenshot 2026-06-02 084201.png)
+![Block Diagram](image/Screenshot%202026-06-02%20084201.png)
