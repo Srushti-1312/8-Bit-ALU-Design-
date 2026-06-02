@@ -14,4 +14,4 @@
 Code files are available in the `verilog_code` folder.
 
 ## Block Diagram
-![Block Diagram](image/block_diagram.png)
+![Block Diagram](Rename Screenshot 2026-06-02 084201.png to image/Screenshot 2026-06-02 084201.png)
