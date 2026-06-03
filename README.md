@@ -16,7 +16,7 @@ Code files are available in the `verilog_code` folder.
 1. Srushti Teli  
 2. Rohit Mangsule  
 3. Aadarsh Babanagar 
-4. chaitrali Warekar
+4. Chaitrali Warekar
 
 ## Block Diagram
 ![Block Diagram](image/Screenshot%202026-06-02%20084201.png)
